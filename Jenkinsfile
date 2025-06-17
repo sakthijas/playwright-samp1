@@ -1,21 +1,21 @@
 pipeline {
-    agent any
-
-    environment {
-        PATH = "/usr/local/bin:$PATH"
+  agent {
+    // Use Docker agent for consistency
+    docker {
+      image 'mcr.microsoft.com/playwright:v1.53.0-jammy'
     }
+  }
 
-    stages {
-        stage('Run Playwright Tests') {
-            steps {
-                sh '''
-                    docker run --rm -i \
-                      -v $WORKSPACE:/home/pwuser/project \
-                      -w /home/pwuser/project \
-                      mcr.microsoft.com/playwright:v1.53.0-jammy \
-                      npx playwright test
-                '''
-            }
-        }
+  stages {
+    stage('Install Dependencies') {
+      steps {
+        sh 'npm ci'
+      }
     }
+    stage('Run Tests') {
+      steps {
+        sh 'npx playwright test'
+      }
+    }
+  }
 }
