@@ -1,0 +1,18 @@
+# Node dependencies
+node_modules/
+
+# Playwright reports & results
+playwright-report/
+test-results/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Environment files (if any)
+.env
+
+# IDE configs (optional)
+.vscode/
