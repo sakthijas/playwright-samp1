@@ -2,25 +2,19 @@ pipeline {
     agent any
 
     environment {
-    PATH = "/Users/sakthivel/.nvm/versions/node/v22.16.0/bin:$PATH"
+        PATH = "/usr/local/bin:$PATH"
     }
 
     stages {
-        stage('Checkout') {
-            steps {
-                checkout scm
-            }
-        }
-
-        stage('Install Dependencies') {
-            steps {
-                sh 'npm install'
-            }
-        }
-
         stage('Run Playwright Tests') {
             steps {
-                sh 'npm test'
+                sh '''
+                    docker run --rm -i \
+                      -v $WORKSPACE:/home/pwuser/project \
+                      -w /home/pwuser/project \
+                      mcr.microsoft.com/playwright:v1.53.0-jammy \
+                      npx playwright test
+                '''
             }
         }
     }
