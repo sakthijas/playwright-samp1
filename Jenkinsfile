@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-    PATH = "/opt/homebrew/bin:$PATH"
+    PATH = "/Users/sakthivel/.nvm/versions/node/v22.16.0/bin:$PATH"
     }
 
     stages {
