@@ -1,11 +1,13 @@
 import { defineConfig, devices } from '@playwright/test';
 
+const reportFolder = process.env.PW_REPORT_FOLDER || 'playwright-report';
+
 export default defineConfig({
   globalSetup: require.resolve('./utils/global-setup'),
   globalTeardown: require.resolve('./utils/global-teardown'),
   reporter: [
     ['list'],
-    ['html', { outputFolder: 'report', open: 'never' }]
+    ['html', { outputFolder: reportFolder, open: 'never' }]
   ],
 
   use: {

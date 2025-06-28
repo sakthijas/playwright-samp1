@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       npm_config_cache: /tmp/.npm-cache
+      PW_REPORT_FOLDER: playwright-report-smoke
     container:
       image: mcr.microsoft.com/playwright:v1.53.0-jammy
       options: --user 1001
@@ -36,6 +37,7 @@ jobs:
     needs: smoke
     env:
       npm_config_cache: /tmp/.npm-cache
+      PW_REPORT_FOLDER: playwright-report-regression
     container:
       image: mcr.microsoft.com/playwright:v1.53.0-jammy
       options: --user 1001

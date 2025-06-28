@@ -1,13 +1,13 @@
 import { test, expect } from '@playwright/test';
 import { InventoryPage } from '../../pages/InventoryPage';
 
-test.describe('@smoke Inventory Page Tests', () => {
+test.describe('Inventory Page Tests', () => {
   test.beforeEach(async ({ page }) => {
     const inventory = new InventoryPage(page);
     await inventory.goto();
   });
 
-  test('@@regression should display product list', async ({ page }) => {
+  test('@smoke should display product list', async ({ page }) => {
     const inventory = new InventoryPage(page);
     const count = await inventory.getProductCount();
     expect(count).toBeGreaterThan(0);

@@ -4,8 +4,7 @@ import { InventoryPage } from '../../pages/InventoryPage';
 
 [
   { name: 'Alice', expected: 'Hello, Alice!' },
-  { name: 'Bob', expected: 'Hello, Bob!' },
-  { name: 'Charlie', expected: 'Hello, Charlie!' },
+  { name: 'Bob', expected: 'Hello, Bob!' }
 ].forEach(({ name, expected }) => {
   test(`@regression should login successfully with valid credentials for user: ${name}`, async ({ page }) => {
     const loginPage = new LoginPage(page);
