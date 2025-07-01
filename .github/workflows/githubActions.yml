@@ -57,3 +57,17 @@ jobs:
           name: playwright-report-regression
           path: playwright-report-regression/
           retention-days: 30
+
+      - name: Send Slack notification on success
+        if: success()
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+          --data '{"text":"✅ Playwright tests passed on *${{ github.repository }}* (`${{ github.ref_name }}`) by `${{ github.actor }}`."}' \
+          ${{ secrets.SLACK_WEBHOOK_URL }}
+
+      - name: Send Slack notification on failure
+        if: failure()
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+          --data '{"text":"❌ Playwright tests failed on *${{ github.repository }}* (`${{ github.ref_name }}`) by `${{ github.actor }}`. Please check the logs."}' \
+          ${{ secrets.SLACK_WEBHOOK_URL }}
