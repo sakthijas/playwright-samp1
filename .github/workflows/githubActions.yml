@@ -100,5 +100,5 @@ jobs:
       - name: Send Slack Notification with Both Links
         run: |
           curl -X POST -H 'Content-type: application/json' --data "{
-            \"text\": \"✅ Playwright Test Reports Available:\\n🔹 Smoke Report: https://<your-username>.github.io/<repo-name>/smoke/\\n🔹 Regression Report: https://<your-username>.github.io/<repo-name>/regression/\"
+            \"text\": \"✅ Playwright Test Reports Available:\\n🔹 Smoke Report: https://sakthijas.github.io/playwright-samp1/smoke/\\n🔹 Regression Report: https://sakthijas.github.io/playwright-samp1/regression/\"
           }" ${{ secrets.SLACK_WEBHOOK_URL }}
