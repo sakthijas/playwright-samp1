@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
-        "commitHash": "b39c5d6232c3058583f059355797e293df557242",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b95e082412f6f992cac87bad24d03f0ac4919b58",
+        "commitHash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16055313841"
       },
       "gitCommit": {
-        "shortHash": "b39c5d6",
-        "hash": "b39c5d6232c3058583f059355797e293df557242",
-        "subject": "update2 - config & actions file for pass/faile scenario",
-        "body": "update2 - config & actions file for pass/faile scenario\n",
+        "shortHash": "b95e082",
+        "hash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
+        "subject": "Fix: Adding Trace file zip to the reports",
+        "body": "Fix: Adding Trace file zip to the reports\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751556380000
+          "time": 1751558681000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751556380000
+          "time": 1751558681000
         },
         "branch": "main"
       },
@@ -64,27 +64,27 @@
       {
         "outputDir": "/__w/playwright-samp1/playwright-samp1/test-results",
         "repeatEach": 1,
-        "retries": 0,
+        "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
-            "commitHash": "b39c5d6232c3058583f059355797e293df557242",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b95e082412f6f992cac87bad24d03f0ac4919b58",
+            "commitHash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16055313841"
           },
           "gitCommit": {
-            "shortHash": "b39c5d6",
-            "hash": "b39c5d6232c3058583f059355797e293df557242",
-            "subject": "update2 - config & actions file for pass/faile scenario",
-            "body": "update2 - config & actions file for pass/faile scenario\n",
+            "shortHash": "b95e082",
+            "hash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
+            "subject": "Fix: Adding Trace file zip to the reports",
+            "body": "Fix: Adding Trace file zip to the reports\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751556380000
+              "time": 1751558681000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751556380000
+              "time": 1751558681000
             },
             "branch": "main"
           },
@@ -102,27 +102,27 @@
       {
         "outputDir": "/__w/playwright-samp1/playwright-samp1/test-results",
         "repeatEach": 1,
-        "retries": 0,
+        "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
-            "commitHash": "b39c5d6232c3058583f059355797e293df557242",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b95e082412f6f992cac87bad24d03f0ac4919b58",
+            "commitHash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16055313841"
           },
           "gitCommit": {
-            "shortHash": "b39c5d6",
-            "hash": "b39c5d6232c3058583f059355797e293df557242",
-            "subject": "update2 - config & actions file for pass/faile scenario",
-            "body": "update2 - config & actions file for pass/faile scenario\n",
+            "shortHash": "b95e082",
+            "hash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
+            "subject": "Fix: Adding Trace file zip to the reports",
+            "body": "Fix: Adding Trace file zip to the reports\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751556380000
+              "time": 1751558681000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751556380000
+              "time": 1751558681000
             },
             "branch": "main"
           },
@@ -140,27 +140,27 @@
       {
         "outputDir": "/__w/playwright-samp1/playwright-samp1/test-results",
         "repeatEach": 1,
-        "retries": 0,
+        "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
-            "commitHash": "b39c5d6232c3058583f059355797e293df557242",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b95e082412f6f992cac87bad24d03f0ac4919b58",
+            "commitHash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16055313841"
           },
           "gitCommit": {
-            "shortHash": "b39c5d6",
-            "hash": "b39c5d6232c3058583f059355797e293df557242",
-            "subject": "update2 - config & actions file for pass/faile scenario",
-            "body": "update2 - config & actions file for pass/faile scenario\n",
+            "shortHash": "b95e082",
+            "hash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
+            "subject": "Fix: Adding Trace file zip to the reports",
+            "body": "Fix: Adding Trace file zip to the reports\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751556380000
+              "time": 1751558681000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751556380000
+              "time": 1751558681000
             },
             "branch": "main"
           },
@@ -215,12 +215,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 631,
+                      "duration": 729,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:27:49.430Z",
+                      "startTime": "2025-07-03T16:05:24.584Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -238,12 +238,12 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2075,
+                      "duration": 2406,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:27:49.429Z",
+                      "startTime": "2025-07-03T16:05:24.587Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -258,15 +258,15 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 2,
+                      "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 1881,
+                      "duration": 2044,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:27:51.693Z",
+                      "startTime": "2025-07-03T16:05:29.012Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -306,7 +306,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:27:50.138Z",
+                      "startTime": "2025-07-03T16:05:25.390Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -337,7 +337,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:27:51.991Z",
+                      "startTime": "2025-07-03T16:05:27.461Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -360,7 +360,7 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 2,
+                      "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "skipped",
                       "duration": 0,
@@ -368,7 +368,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:27:54.143Z",
+                      "startTime": "2025-07-03T16:05:31.548Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -403,7 +403,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 708,
+                      "duration": 783,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -427,7 +427,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:27:50.139Z",
+                      "startTime": "2025-07-03T16:05:25.390Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -444,6 +444,69 @@
                           "name": "error-context",
                           "contentType": "text/markdown",
                           "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Chromium/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Chromium/trace.zip"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "/__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts",
+                        "column": 23,
+                        "line": 26
+                      }
+                    },
+                    {
+                      "workerIndex": 2,
+                      "parallelIndex": 0,
+                      "status": "failed",
+                      "duration": 876,
+                      "error": {
+                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
+                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
+                        "location": {
+                          "file": "/__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts",
+                          "column": 23,
+                          "line": 26
+                        },
+                        "snippet": "\u001b[0m \u001b[90m 24 |\u001b[39m     \u001b[36mawait\u001b[39m inventory\u001b[33m.\u001b[39maddFirstItemToCart()\u001b[33m;\u001b[39m\n \u001b[90m 25 |\u001b[39m     \u001b[36mconst\u001b[39m cartCount \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m inventory\u001b[33m.\u001b[39mgetCartCount()\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 26 |\u001b[39m     expect(cartCount)\u001b[33m.\u001b[39mtoBe(\u001b[35m2\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                       \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 27 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 28 |\u001b[39m\n \u001b[90m 29 |\u001b[39m   test\u001b[33m.\u001b[39mskip(\u001b[32m'should remove item from cart and hide badge'\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m ({ page }) \u001b[33m=>\u001b[39m {\u001b[0m"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "/__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts",
+                            "column": 23,
+                            "line": 26
+                          },
+                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n\n  24 |     await inventory.addFirstItemToCart();\n  25 |     const cartCount = await inventory.getCartCount();\n> 26 |     expect(cartCount).toBe(2);\n     |                       ^\n  27 |   });\n  28 |\n  29 |   test.skip('should remove item from cart and hide badge', async ({ page }) => {\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23"
+                        }
+                      ],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 1,
+                      "startTime": "2025-07-03T16:05:27.128Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Chromium-retry1/test-failed-1.png"
+                        },
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Chromium-retry1/video.webm"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Chromium-retry1/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Chromium-retry1/trace.zip"
                         }
                       ],
                       "errorLocation": {
@@ -466,7 +529,7 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 1201,
+                      "duration": 1378,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -490,7 +553,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:27:51.993Z",
+                      "startTime": "2025-07-03T16:05:27.461Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -507,6 +570,69 @@
                           "name": "error-context",
                           "contentType": "text/markdown",
                           "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Firefox/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Firefox/trace.zip"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "/__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts",
+                        "column": 23,
+                        "line": 26
+                      }
+                    },
+                    {
+                      "workerIndex": 4,
+                      "parallelIndex": 1,
+                      "status": "failed",
+                      "duration": 3293,
+                      "error": {
+                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
+                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
+                        "location": {
+                          "file": "/__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts",
+                          "column": 23,
+                          "line": 26
+                        },
+                        "snippet": "\u001b[0m \u001b[90m 24 |\u001b[39m     \u001b[36mawait\u001b[39m inventory\u001b[33m.\u001b[39maddFirstItemToCart()\u001b[33m;\u001b[39m\n \u001b[90m 25 |\u001b[39m     \u001b[36mconst\u001b[39m cartCount \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m inventory\u001b[33m.\u001b[39mgetCartCount()\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 26 |\u001b[39m     expect(cartCount)\u001b[33m.\u001b[39mtoBe(\u001b[35m2\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                       \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 27 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 28 |\u001b[39m\n \u001b[90m 29 |\u001b[39m   test\u001b[33m.\u001b[39mskip(\u001b[32m'should remove item from cart and hide badge'\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m ({ page }) \u001b[33m=>\u001b[39m {\u001b[0m"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "/__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts",
+                            "column": 23,
+                            "line": 26
+                          },
+                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n\n  24 |     await inventory.addFirstItemToCart();\n  25 |     const cartCount = await inventory.getCartCount();\n> 26 |     expect(cartCount).toBe(2);\n     |                       ^\n  27 |   });\n  28 |\n  29 |   test.skip('should remove item from cart and hide badge', async ({ page }) => {\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23"
+                        }
+                      ],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 1,
+                      "startTime": "2025-07-03T16:05:30.290Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Firefox-retry1/test-failed-1.png"
+                        },
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Firefox-retry1/video.webm"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Firefox-retry1/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-Firefox-retry1/trace.zip"
                         }
                       ],
                       "errorLocation": {
@@ -526,10 +652,10 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 2,
+                      "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 2016,
+                      "duration": 2869,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -553,7 +679,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:27:54.144Z",
+                      "startTime": "2025-07-03T16:05:31.549Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -570,6 +696,69 @@
                           "name": "error-context",
                           "contentType": "text/markdown",
                           "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-WebKit/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-WebKit/trace.zip"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "/__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts",
+                        "column": 23,
+                        "line": 26
+                      }
+                    },
+                    {
+                      "workerIndex": 5,
+                      "parallelIndex": 0,
+                      "status": "failed",
+                      "duration": 1984,
+                      "error": {
+                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
+                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
+                        "location": {
+                          "file": "/__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts",
+                          "column": 23,
+                          "line": 26
+                        },
+                        "snippet": "\u001b[0m \u001b[90m 24 |\u001b[39m     \u001b[36mawait\u001b[39m inventory\u001b[33m.\u001b[39maddFirstItemToCart()\u001b[33m;\u001b[39m\n \u001b[90m 25 |\u001b[39m     \u001b[36mconst\u001b[39m cartCount \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m inventory\u001b[33m.\u001b[39mgetCartCount()\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 26 |\u001b[39m     expect(cartCount)\u001b[33m.\u001b[39mtoBe(\u001b[35m2\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                       \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 27 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 28 |\u001b[39m\n \u001b[90m 29 |\u001b[39m   test\u001b[33m.\u001b[39mskip(\u001b[32m'should remove item from cart and hide badge'\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m ({ page }) \u001b[33m=>\u001b[39m {\u001b[0m"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "/__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts",
+                            "column": 23,
+                            "line": 26
+                          },
+                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n\n  24 |     await inventory.addFirstItemToCart();\n  25 |     const cartCount = await inventory.getCartCount();\n> 26 |     expect(cartCount).toBe(2);\n     |                       ^\n  27 |   });\n  28 |\n  29 |   test.skip('should remove item from cart and hide badge', async ({ page }) => {\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23"
+                        }
+                      ],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 1,
+                      "startTime": "2025-07-03T16:05:35.208Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-WebKit-retry1/test-failed-1.png"
+                        },
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-WebKit-retry1/video.webm"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-WebKit-retry1/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/__w/playwright-samp1/playwright-samp1/test-results/tests-smoke-inventory-Inve-ddb28-item-to-cart-and-show-badge-WebKit-retry1/trace.zip"
                         }
                       ],
                       "errorLocation": {
@@ -594,8 +783,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-03T15:27:47.989Z",
-    "duration": 8336.970000000001,
+    "startTime": "2025-07-03T16:05:23.056Z",
+    "duration": 14498.074,
     "expected": 3,
     "skipped": 3,
     "unexpected": 3,
