@@ -1,0 +1,393 @@
+{
+  "config": {
+    "configFile": "/__w/playwright-samp1/playwright-samp1/playwright.config.js",
+    "rootDir": "/__w/playwright-samp1/playwright-samp1",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": "/__w/playwright-samp1/playwright-samp1/utils/global-setup.ts",
+    "globalTeardown": "/__w/playwright-samp1/playwright-samp1/utils/global-teardown.ts",
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "ci": {
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
+        "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+      },
+      "gitCommit": {
+        "shortHash": "fc56838",
+        "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
+        "subject": "updated config & actions file for pass/faile scenario",
+        "body": "updated config & actions file for pass/faile scenario\n",
+        "author": {
+          "name": "sakthijas",
+          "email": "sakthijas173@gmail.com",
+          "time": 1751555439000
+        },
+        "committer": {
+          "name": "sakthijas",
+          "email": "sakthijas173@gmail.com",
+          "time": 1751555439000
+        },
+        "branch": "main"
+      },
+      "actualWorkers": 2
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "html",
+        {
+          "outputFolder": "playwright-report-regression",
+          "open": "never"
+        }
+      ],
+      [
+        "json",
+        {
+          "outputFile": "playwright-report-regression/report.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "/__w/playwright-samp1/playwright-samp1/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "ci": {
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
+            "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+          },
+          "gitCommit": {
+            "shortHash": "fc56838",
+            "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
+            "subject": "updated config & actions file for pass/faile scenario",
+            "body": "updated config & actions file for pass/faile scenario\n",
+            "author": {
+              "name": "sakthijas",
+              "email": "sakthijas173@gmail.com",
+              "time": 1751555439000
+            },
+            "committer": {
+              "name": "sakthijas",
+              "email": "sakthijas173@gmail.com",
+              "time": 1751555439000
+            },
+            "branch": "main"
+          },
+          "actualWorkers": 2
+        },
+        "id": "Chromium",
+        "name": "Chromium",
+        "testDir": "/__w/playwright-samp1/playwright-samp1",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      },
+      {
+        "outputDir": "/__w/playwright-samp1/playwright-samp1/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "ci": {
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
+            "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+          },
+          "gitCommit": {
+            "shortHash": "fc56838",
+            "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
+            "subject": "updated config & actions file for pass/faile scenario",
+            "body": "updated config & actions file for pass/faile scenario\n",
+            "author": {
+              "name": "sakthijas",
+              "email": "sakthijas173@gmail.com",
+              "time": 1751555439000
+            },
+            "committer": {
+              "name": "sakthijas",
+              "email": "sakthijas173@gmail.com",
+              "time": 1751555439000
+            },
+            "branch": "main"
+          },
+          "actualWorkers": 2
+        },
+        "id": "Firefox",
+        "name": "Firefox",
+        "testDir": "/__w/playwright-samp1/playwright-samp1",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      },
+      {
+        "outputDir": "/__w/playwright-samp1/playwright-samp1/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "ci": {
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
+            "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+          },
+          "gitCommit": {
+            "shortHash": "fc56838",
+            "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
+            "subject": "updated config & actions file for pass/faile scenario",
+            "body": "updated config & actions file for pass/faile scenario\n",
+            "author": {
+              "name": "sakthijas",
+              "email": "sakthijas173@gmail.com",
+              "time": 1751555439000
+            },
+            "committer": {
+              "name": "sakthijas",
+              "email": "sakthijas173@gmail.com",
+              "time": 1751555439000
+            },
+            "branch": "main"
+          },
+          "actualWorkers": 2
+        },
+        "id": "WebKit",
+        "name": "WebKit",
+        "testDir": "/__w/playwright-samp1/playwright-samp1",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      }
+    ],
+    "shard": null,
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.53.0",
+    "workers": 2,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "tests/smoke/login.spec.ts",
+      "file": "tests/smoke/login.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "@regression should login successfully with valid credentials for user: Alice",
+          "ok": true,
+          "tags": [
+            "regression"
+          ],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "Chromium",
+              "projectName": "Chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 744,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "---> Alice\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-07-03T15:12:04.703Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "Firefox",
+              "projectName": "Firefox",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 2279,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "---> Alice\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-07-03T15:12:04.716Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "WebKit",
+              "projectName": "WebKit",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 2089,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "---> Alice\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-07-03T15:12:07.089Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "b12f0e96a9924a7187bc-f3e8db77ff10c92e1d01",
+          "file": "tests/smoke/login.spec.ts",
+          "line": 9,
+          "column": 7
+        },
+        {
+          "title": "@regression should login successfully with valid credentials for user: Bob",
+          "ok": true,
+          "tags": [
+            "regression"
+          ],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "Chromium",
+              "projectName": "Chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 735,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "---> Bob\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-07-03T15:12:05.524Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "Firefox",
+              "projectName": "Firefox",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 1198,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "---> Bob\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-07-03T15:12:07.450Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "WebKit",
+              "projectName": "WebKit",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1757,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "---> Bob\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-07-03T15:12:09.733Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "b12f0e96a9924a7187bc-128e264a5114e1d59919",
+          "file": "tests/smoke/login.spec.ts",
+          "line": 9,
+          "column": 7
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2025-07-03T15:12:03.293Z",
+    "duration": 8660.029,
+    "expected": 6,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}
