@@ -35,7 +35,7 @@ jobs:
       - name: Send Slack notification
         run: |
           REPORT_FILE="$PW_REPORT_FOLDER/report.json"
-          if grep -q '"status":"failed"' "$REPORT_FILE"; then
+          if grep -q '"status": "failed"' "$REPORT_FILE"; then
             STATUS="❌ Playwright - Smoke tests failed. Please check the report."
           else
             STATUS="✅ Playwright - Smoke tests passed"
@@ -74,7 +74,7 @@ jobs:
       - name: Send Slack notification
         run: |
           REPORT_FILE="$PW_REPORT_FOLDER/report.json"
-          if grep -q '"status":"failed"' "$REPORT_FILE"; then
+          if grep -q '"status": "failed"' "$REPORT_FILE"; then
             STATUS="❌ Playwright - Regression tests failed. Please check the report."
           else
             STATUS="✅ Playwright - Regression tests passed"
