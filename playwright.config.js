@@ -5,6 +5,11 @@ const reportFolder = process.env.PW_REPORT_FOLDER || 'playwright-report';
 export default defineConfig({
   globalSetup: require.resolve('./utils/global-setup'),
   globalTeardown: require.resolve('./utils/global-teardown'),
+  retries: 1,
+  timeout: 30 * 1000,
+  expect: {
+    timeout: 5000, 
+  },  
   reporter: [
     ['list'],
     ['html', { outputFolder: reportFolder, open: 'never' }],
@@ -17,7 +22,7 @@ export default defineConfig({
     headless: true,
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
-    trace: 'on-first-retry',
+    trace: 'retain-on-failure',
   },
 
   projects: [
