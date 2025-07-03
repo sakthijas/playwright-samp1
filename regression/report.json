@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
-        "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
+        "commitHash": "b39c5d6232c3058583f059355797e293df557242",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
       },
       "gitCommit": {
-        "shortHash": "fc56838",
-        "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
-        "subject": "updated config & actions file for pass/faile scenario",
-        "body": "updated config & actions file for pass/faile scenario\n",
+        "shortHash": "b39c5d6",
+        "hash": "b39c5d6232c3058583f059355797e293df557242",
+        "subject": "update2 - config & actions file for pass/faile scenario",
+        "body": "update2 - config & actions file for pass/faile scenario\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751555439000
+          "time": 1751556380000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751555439000
+          "time": 1751556380000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 0,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
-            "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
+            "commitHash": "b39c5d6232c3058583f059355797e293df557242",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
           },
           "gitCommit": {
-            "shortHash": "fc56838",
-            "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "subject": "updated config & actions file for pass/faile scenario",
-            "body": "updated config & actions file for pass/faile scenario\n",
+            "shortHash": "b39c5d6",
+            "hash": "b39c5d6232c3058583f059355797e293df557242",
+            "subject": "update2 - config & actions file for pass/faile scenario",
+            "body": "update2 - config & actions file for pass/faile scenario\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 0,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
-            "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
+            "commitHash": "b39c5d6232c3058583f059355797e293df557242",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
           },
           "gitCommit": {
-            "shortHash": "fc56838",
-            "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "subject": "updated config & actions file for pass/faile scenario",
-            "body": "updated config & actions file for pass/faile scenario\n",
+            "shortHash": "b39c5d6",
+            "hash": "b39c5d6232c3058583f059355797e293df557242",
+            "subject": "update2 - config & actions file for pass/faile scenario",
+            "body": "update2 - config & actions file for pass/faile scenario\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 0,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
-            "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
+            "commitHash": "b39c5d6232c3058583f059355797e293df557242",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
           },
           "gitCommit": {
-            "shortHash": "fc56838",
-            "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "subject": "updated config & actions file for pass/faile scenario",
-            "body": "updated config & actions file for pass/faile scenario\n",
+            "shortHash": "b39c5d6",
+            "hash": "b39c5d6232c3058583f059355797e293df557242",
+            "subject": "update2 - config & actions file for pass/faile scenario",
+            "body": "update2 - config & actions file for pass/faile scenario\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "branch": "main"
           },
@@ -208,7 +208,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 744,
+                  "duration": 678,
                   "errors": [],
                   "stdout": [
                     {
@@ -217,7 +217,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-03T15:12:04.703Z",
+                  "startTime": "2025-07-03T15:28:34.807Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -235,7 +235,7 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 2279,
+                  "duration": 2153,
                   "errors": [],
                   "stdout": [
                     {
@@ -244,7 +244,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-03T15:12:04.716Z",
+                  "startTime": "2025-07-03T15:28:34.815Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -262,7 +262,7 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2089,
+                  "duration": 2106,
                   "errors": [],
                   "stdout": [
                     {
@@ -271,7 +271,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-03T15:12:07.089Z",
+                  "startTime": "2025-07-03T15:28:37.066Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -302,7 +302,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 735,
+                  "duration": 638,
                   "errors": [],
                   "stdout": [
                     {
@@ -311,7 +311,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-03T15:12:05.524Z",
+                  "startTime": "2025-07-03T15:28:35.556Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -329,7 +329,7 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1198,
+                  "duration": 1265,
                   "errors": [],
                   "stdout": [
                     {
@@ -338,7 +338,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-03T15:12:07.450Z",
+                  "startTime": "2025-07-03T15:28:37.482Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -356,7 +356,7 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1757,
+                  "duration": 1708,
                   "errors": [],
                   "stdout": [
                     {
@@ -365,7 +365,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-03T15:12:09.733Z",
+                  "startTime": "2025-07-03T15:28:39.743Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -383,8 +383,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-03T15:12:03.293Z",
-    "duration": 8660.029,
+    "startTime": "2025-07-03T15:28:33.481Z",
+    "duration": 8492.824999999999,
     "expected": 6,
     "skipped": 0,
     "unexpected": 0,

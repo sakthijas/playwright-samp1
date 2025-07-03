@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
-        "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
+        "commitHash": "b39c5d6232c3058583f059355797e293df557242",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
       },
       "gitCommit": {
-        "shortHash": "fc56838",
-        "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
-        "subject": "updated config & actions file for pass/faile scenario",
-        "body": "updated config & actions file for pass/faile scenario\n",
+        "shortHash": "b39c5d6",
+        "hash": "b39c5d6232c3058583f059355797e293df557242",
+        "subject": "update2 - config & actions file for pass/faile scenario",
+        "body": "update2 - config & actions file for pass/faile scenario\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751555439000
+          "time": 1751556380000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751555439000
+          "time": 1751556380000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 0,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
-            "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
+            "commitHash": "b39c5d6232c3058583f059355797e293df557242",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
           },
           "gitCommit": {
-            "shortHash": "fc56838",
-            "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "subject": "updated config & actions file for pass/faile scenario",
-            "body": "updated config & actions file for pass/faile scenario\n",
+            "shortHash": "b39c5d6",
+            "hash": "b39c5d6232c3058583f059355797e293df557242",
+            "subject": "update2 - config & actions file for pass/faile scenario",
+            "body": "update2 - config & actions file for pass/faile scenario\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 0,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
-            "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
+            "commitHash": "b39c5d6232c3058583f059355797e293df557242",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
           },
           "gitCommit": {
-            "shortHash": "fc56838",
-            "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "subject": "updated config & actions file for pass/faile scenario",
-            "body": "updated config & actions file for pass/faile scenario\n",
+            "shortHash": "b39c5d6",
+            "hash": "b39c5d6232c3058583f059355797e293df557242",
+            "subject": "update2 - config & actions file for pass/faile scenario",
+            "body": "update2 - config & actions file for pass/faile scenario\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 0,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fc56838f8120a8f65cc680c9db435424386743d5",
-            "commitHash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054149485"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b39c5d6232c3058583f059355797e293df557242",
+            "commitHash": "b39c5d6232c3058583f059355797e293df557242",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16054523223"
           },
           "gitCommit": {
-            "shortHash": "fc56838",
-            "hash": "fc56838f8120a8f65cc680c9db435424386743d5",
-            "subject": "updated config & actions file for pass/faile scenario",
-            "body": "updated config & actions file for pass/faile scenario\n",
+            "shortHash": "b39c5d6",
+            "hash": "b39c5d6232c3058583f059355797e293df557242",
+            "subject": "update2 - config & actions file for pass/faile scenario",
+            "body": "update2 - config & actions file for pass/faile scenario\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751555439000
+              "time": 1751556380000
             },
             "branch": "main"
           },
@@ -215,12 +215,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 579,
+                      "duration": 631,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:11:20.544Z",
+                      "startTime": "2025-07-03T15:27:49.430Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -238,12 +238,12 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2170,
+                      "duration": 2075,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:11:20.530Z",
+                      "startTime": "2025-07-03T15:27:49.429Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -261,12 +261,12 @@
                       "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 2037,
+                      "duration": 1881,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:11:22.723Z",
+                      "startTime": "2025-07-03T15:27:51.693Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -306,7 +306,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:11:21.202Z",
+                      "startTime": "2025-07-03T15:27:50.138Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -337,7 +337,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:11:23.244Z",
+                      "startTime": "2025-07-03T15:27:51.991Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -368,7 +368,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:11:25.401Z",
+                      "startTime": "2025-07-03T15:27:54.143Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -403,7 +403,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 678,
+                      "duration": 708,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -427,7 +427,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:11:21.203Z",
+                      "startTime": "2025-07-03T15:27:50.139Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -466,7 +466,7 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 1297,
+                      "duration": 1201,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -490,7 +490,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:11:23.244Z",
+                      "startTime": "2025-07-03T15:27:51.993Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -529,7 +529,7 @@
                       "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 1963,
+                      "duration": 2016,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -553,7 +553,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T15:11:25.402Z",
+                      "startTime": "2025-07-03T15:27:54.144Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -594,8 +594,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-03T15:11:19.203Z",
-    "duration": 8391.195,
+    "startTime": "2025-07-03T15:27:47.989Z",
+    "duration": 8336.970000000001,
     "expected": 3,
     "skipped": 3,
     "unexpected": 3,
