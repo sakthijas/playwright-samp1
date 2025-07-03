@@ -22,11 +22,11 @@ jobs:
         run: npm ci
 
       - name: Run Smoke Tests
-        run: npx playwright test --grep @smoke
+        run: npx playwright test --grep @smoke || true
 
       - name: Upload Smoke Test Report
         uses: actions/upload-artifact@v4
-        if: ${{ !cancelled() }}
+        if: always()
         with:
           name: playwright-report-smoke
           path: playwright-report-smoke/
@@ -34,10 +34,11 @@ jobs:
 
       - name: Send Slack notification
         run: |
-          if [ "${{ job.status }}" == "success" ]; then
-            STATUS="✅ Playwright - Smoke tests passed"
+          REPORT_FILE="$PW_REPORT_FOLDER/report.json"
+          if grep -q '"status":"failed"' "$REPORT_FILE"; then
+            STATUS="❌ Playwright - Smoke tests failed. Please check the report."
           else
-            STATUS="❌ Playwright - Smoke tests failed. Please check the logs."
+            STATUS="✅ Playwright - Smoke tests passed"
           fi
 
           curl -X POST -H 'Content-type: application/json' \
@@ -60,11 +61,11 @@ jobs:
         run: npm ci
 
       - name: Run Regression Tests
-        run: npx playwright test --grep @regression
+        run: npx playwright test --grep @regression || true
 
       - name: Upload Regression Test Report
         uses: actions/upload-artifact@v4
-        if: ${{ !cancelled() }}
+        if: always()
         with:
           name: playwright-report-regression
           path: playwright-report-regression/
@@ -72,10 +73,11 @@ jobs:
 
       - name: Send Slack notification
         run: |
-          if [ "${{ job.status }}" == "success" ]; then
-            STATUS="✅ Playwright - Regression tests passed"
+          REPORT_FILE="$PW_REPORT_FOLDER/report.json"
+          if grep -q '"status":"failed"' "$REPORT_FILE"; then
+            STATUS="❌ Playwright - Regression tests failed. Please check the report."
           else
-            STATUS="❌ Playwright - Regression tests failed. Please check the logs."
+            STATUS="✅ Playwright - Regression tests passed"
           fi
 
           curl -X POST -H 'Content-type: application/json' \

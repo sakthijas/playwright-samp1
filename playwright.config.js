@@ -7,7 +7,8 @@ export default defineConfig({
   globalTeardown: require.resolve('./utils/global-teardown'),
   reporter: [
     ['list'],
-    ['html', { outputFolder: reportFolder, open: 'never' }]
+    ['html', { outputFolder: reportFolder, open: 'never' }],
+    ['json', { outputFile: `${reportFolder}/report.json` }]
   ],
 
   use: {
