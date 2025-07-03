@@ -32,6 +32,18 @@ jobs:
           path: playwright-report-smoke/
           retention-days: 30
 
+      - name: Send Slack notification
+        run: |
+          if [ "${{ job.status }}" == "success" ]; then
+            STATUS="✅ Playwright - Smoke tests passed"
+          else
+            STATUS="❌ Playwright - Smoke tests failed. Please check the logs."
+          fi
+
+          curl -X POST -H 'Content-type: application/json' \
+            --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\"}" \
+            ${{ secrets.SLACK_WEBHOOK_URL }}
+
   regression:
     runs-on: ubuntu-latest
     needs: smoke
@@ -58,19 +70,17 @@ jobs:
           path: playwright-report-regression/
           retention-days: 30
 
-      - name: Send Slack notification on success
-        if: success()
+      - name: Send Slack notification
         run: |
-          curl -X POST -H 'Content-type: application/json' \
-          --data '{"text":"✅ Playwright tests passed on *${{ github.repository }}* (`${{ github.ref_name }}`) by `${{ github.actor }}`."}' \
-          ${{ secrets.SLACK_WEBHOOK_URL }}
+          if [ "${{ job.status }}" == "success" ]; then
+            STATUS="✅ Playwright - Regression tests passed"
+          else
+            STATUS="❌ Playwright - Regression tests failed. Please check the logs."
+          fi
 
-      - name: Send Slack notification on failure
-        if: failure()
-        run: |
           curl -X POST -H 'Content-type: application/json' \
-          --data '{"text":"❌ Playwright tests failed on *${{ github.repository }}* (`${{ github.ref_name }}`) by `${{ github.actor }}`. Please check the logs."}' \
-          ${{ secrets.SLACK_WEBHOOK_URL }}
+            --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\"}" \
+            ${{ secrets.SLACK_WEBHOOK_URL }}
   
   deploy-report:
     runs-on: ubuntu-latest
@@ -100,5 +110,5 @@ jobs:
       - name: Send Slack Notification with Both Links
         run: |
           curl -X POST -H 'Content-type: application/json' --data "{
-            \"text\": \"✅ Playwright Test Reports Available:\\n🔹 Smoke Report: https://sakthijas.github.io/playwright-samp1/smoke/\\n🔹 Regression Report: https://sakthijas.github.io/playwright-samp1/regression/\"
+            \"text\": \"*Playwright Test Reports Available:*\\n🔹 Smoke Report: https://sakthijas.github.io/playwright-samp1/smoke/\\n🔹 Regression Report: https://sakthijas.github.io/playwright-samp1/regression/\"
           }" ${{ secrets.SLACK_WEBHOOK_URL }}

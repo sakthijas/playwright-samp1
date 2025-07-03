@@ -13,17 +13,17 @@ test.describe('Inventory Page Tests', () => {
     expect(count).toBeGreaterThan(0);
   });
 
-  test.skip('should sort items by Price (low to high)', async ({ page }) => {
+  test.skip('@smoke should sort items by Price (low to high)', async ({ page }) => {
     const inventory = new InventoryPage(page);
     await inventory.sortBy('Price (low to high)');
     await expect(inventory.sortDropdown).toHaveValue('lohi');
   });
 
-  test('should add an item to cart and show badge', async ({ page }) => {
+  test('@smoke should add an item to cart and show badge', async ({ page }) => {
     const inventory = new InventoryPage(page);
     await inventory.addFirstItemToCart();
     const cartCount = await inventory.getCartCount();
-    expect(cartCount).toBe(1);
+    expect(cartCount).toBe(2);
   });
 
   test.skip('should remove item from cart and hide badge', async ({ page }) => {
