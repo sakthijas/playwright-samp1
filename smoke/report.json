@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b95e082412f6f992cac87bad24d03f0ac4919b58",
-        "commitHash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16055313841"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/134f7634a138ec50403a92fc48113f1648228971",
+        "commitHash": "134f7634a138ec50403a92fc48113f1648228971",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16100672548"
       },
       "gitCommit": {
-        "shortHash": "b95e082",
-        "hash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
-        "subject": "Fix: Adding Trace file zip to the reports",
-        "body": "Fix: Adding Trace file zip to the reports\n",
+        "shortHash": "134f763",
+        "hash": "134f7634a138ec50403a92fc48113f1648228971",
+        "subject": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure",
+        "body": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751558681000
+          "time": 1751816706000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751558681000
+          "time": 1751816706000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b95e082412f6f992cac87bad24d03f0ac4919b58",
-            "commitHash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16055313841"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/134f7634a138ec50403a92fc48113f1648228971",
+            "commitHash": "134f7634a138ec50403a92fc48113f1648228971",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16100672548"
           },
           "gitCommit": {
-            "shortHash": "b95e082",
-            "hash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
-            "subject": "Fix: Adding Trace file zip to the reports",
-            "body": "Fix: Adding Trace file zip to the reports\n",
+            "shortHash": "134f763",
+            "hash": "134f7634a138ec50403a92fc48113f1648228971",
+            "subject": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure",
+            "body": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751558681000
+              "time": 1751816706000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751558681000
+              "time": 1751816706000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b95e082412f6f992cac87bad24d03f0ac4919b58",
-            "commitHash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16055313841"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/134f7634a138ec50403a92fc48113f1648228971",
+            "commitHash": "134f7634a138ec50403a92fc48113f1648228971",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16100672548"
           },
           "gitCommit": {
-            "shortHash": "b95e082",
-            "hash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
-            "subject": "Fix: Adding Trace file zip to the reports",
-            "body": "Fix: Adding Trace file zip to the reports\n",
+            "shortHash": "134f763",
+            "hash": "134f7634a138ec50403a92fc48113f1648228971",
+            "subject": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure",
+            "body": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751558681000
+              "time": 1751816706000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751558681000
+              "time": 1751816706000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/b95e082412f6f992cac87bad24d03f0ac4919b58",
-            "commitHash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16055313841"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/134f7634a138ec50403a92fc48113f1648228971",
+            "commitHash": "134f7634a138ec50403a92fc48113f1648228971",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16100672548"
           },
           "gitCommit": {
-            "shortHash": "b95e082",
-            "hash": "b95e082412f6f992cac87bad24d03f0ac4919b58",
-            "subject": "Fix: Adding Trace file zip to the reports",
-            "body": "Fix: Adding Trace file zip to the reports\n",
+            "shortHash": "134f763",
+            "hash": "134f7634a138ec50403a92fc48113f1648228971",
+            "subject": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure",
+            "body": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751558681000
+              "time": 1751816706000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751558681000
+              "time": 1751816706000
             },
             "branch": "main"
           },
@@ -215,12 +215,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 729,
+                      "duration": 653,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T16:05:24.584Z",
+                      "startTime": "2025-07-06T15:45:48.289Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -238,12 +238,12 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2406,
+                      "duration": 2296,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T16:05:24.587Z",
+                      "startTime": "2025-07-06T15:45:48.277Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -258,15 +258,15 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 2044,
+                      "duration": 1781,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T16:05:29.012Z",
+                      "startTime": "2025-07-06T15:45:54.151Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -306,7 +306,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T16:05:25.390Z",
+                      "startTime": "2025-07-06T15:45:49.019Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -337,7 +337,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T16:05:27.461Z",
+                      "startTime": "2025-07-06T15:45:51.065Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -360,7 +360,7 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "skipped",
                       "duration": 0,
@@ -368,7 +368,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T16:05:31.548Z",
+                      "startTime": "2025-07-06T15:45:56.430Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -403,7 +403,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 783,
+                      "duration": 812,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -427,7 +427,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T16:05:25.390Z",
+                      "startTime": "2025-07-06T15:45:49.020Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -461,7 +461,7 @@
                       "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 876,
+                      "duration": 982,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -485,7 +485,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-07-03T16:05:27.128Z",
+                      "startTime": "2025-07-06T15:45:50.804Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -529,7 +529,7 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 1378,
+                      "duration": 1312,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -553,7 +553,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T16:05:27.461Z",
+                      "startTime": "2025-07-06T15:45:51.065Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -587,7 +587,7 @@
                       "workerIndex": 4,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 3293,
+                      "duration": 3062,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -611,7 +611,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-07-03T16:05:30.290Z",
+                      "startTime": "2025-07-06T15:45:53.784Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -652,10 +652,10 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 2869,
+                      "duration": 2663,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -679,7 +679,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-03T16:05:31.549Z",
+                      "startTime": "2025-07-06T15:45:56.431Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -710,10 +710,10 @@
                       }
                     },
                     {
-                      "workerIndex": 5,
+                      "workerIndex": 7,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 1984,
+                      "duration": 3009,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -737,7 +737,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-07-03T16:05:35.208Z",
+                      "startTime": "2025-07-06T15:45:59.980Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -775,6 +775,190 @@
               "file": "tests/smoke/inventory.spec.ts",
               "line": 22,
               "column": 7
+            },
+            {
+              "title": "should remove item from cart and hide badge",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [
+                    {
+                      "type": "skip"
+                    }
+                  ],
+                  "expectedStatus": "skipped",
+                  "projectId": "Chromium",
+                  "projectName": "Chromium",
+                  "results": [
+                    {
+                      "workerIndex": 3,
+                      "parallelIndex": 0,
+                      "status": "skipped",
+                      "duration": 0,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-07-06T15:45:52.733Z",
+                      "annotations": [
+                        {
+                          "type": "skip"
+                        }
+                      ],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "skipped"
+                },
+                {
+                  "timeout": 30000,
+                  "annotations": [
+                    {
+                      "type": "skip"
+                    }
+                  ],
+                  "expectedStatus": "skipped",
+                  "projectId": "Firefox",
+                  "projectName": "Firefox",
+                  "results": [
+                    {
+                      "workerIndex": 6,
+                      "parallelIndex": 1,
+                      "status": "skipped",
+                      "duration": 0,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-07-06T15:45:58.870Z",
+                      "annotations": [
+                        {
+                          "type": "skip"
+                        }
+                      ],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "skipped"
+                },
+                {
+                  "timeout": 30000,
+                  "annotations": [
+                    {
+                      "type": "skip"
+                    }
+                  ],
+                  "expectedStatus": "skipped",
+                  "projectId": "WebKit",
+                  "projectName": "WebKit",
+                  "results": [
+                    {
+                      "workerIndex": 8,
+                      "parallelIndex": 0,
+                      "status": "skipped",
+                      "duration": 0,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-07-06T15:46:03.801Z",
+                      "annotations": [
+                        {
+                          "type": "skip"
+                        }
+                      ],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "skipped"
+                }
+              ],
+              "id": "ef7206ba66bdb2e29307-f2bb431a9598d9cc1b5b",
+              "file": "tests/smoke/inventory.spec.ts",
+              "line": 29,
+              "column": 8
+            },
+            {
+              "title": "should navigate to product details on click",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "Chromium",
+                  "projectName": "Chromium",
+                  "results": [
+                    {
+                      "workerIndex": 3,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 696,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-07-06T15:45:52.733Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                },
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "Firefox",
+                  "projectName": "Firefox",
+                  "results": [
+                    {
+                      "workerIndex": 6,
+                      "parallelIndex": 1,
+                      "status": "passed",
+                      "duration": 2622,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-07-06T15:45:58.871Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                },
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "WebKit",
+                  "projectName": "WebKit",
+                  "results": [
+                    {
+                      "workerIndex": 8,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 2112,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-07-06T15:46:03.801Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "ef7206ba66bdb2e29307-5087828f3f00e51b0f6b",
+              "file": "tests/smoke/inventory.spec.ts",
+              "line": 36,
+              "column": 7
             }
           ]
         }
@@ -783,10 +967,10 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-03T16:05:23.056Z",
-    "duration": 14498.074,
-    "expected": 3,
-    "skipped": 3,
+    "startTime": "2025-07-06T15:45:46.930Z",
+    "duration": 19211.042999999998,
+    "expected": 6,
+    "skipped": 6,
     "unexpected": 3,
     "flaky": 0
   }
