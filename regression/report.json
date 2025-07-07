@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/134f7634a138ec50403a92fc48113f1648228971",
-        "commitHash": "134f7634a138ec50403a92fc48113f1648228971",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16100672548"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
+        "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
       },
       "gitCommit": {
-        "shortHash": "134f763",
-        "hash": "134f7634a138ec50403a92fc48113f1648228971",
-        "subject": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure",
-        "body": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure\n",
+        "shortHash": "7af0524",
+        "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
+        "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
+        "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751816706000
+          "time": 1751865456000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751816706000
+          "time": 1751865456000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/134f7634a138ec50403a92fc48113f1648228971",
-            "commitHash": "134f7634a138ec50403a92fc48113f1648228971",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16100672548"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
+            "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
           },
           "gitCommit": {
-            "shortHash": "134f763",
-            "hash": "134f7634a138ec50403a92fc48113f1648228971",
-            "subject": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure",
-            "body": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure\n",
+            "shortHash": "7af0524",
+            "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
+            "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
+            "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751816706000
+              "time": 1751865456000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751816706000
+              "time": 1751865456000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/134f7634a138ec50403a92fc48113f1648228971",
-            "commitHash": "134f7634a138ec50403a92fc48113f1648228971",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16100672548"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
+            "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
           },
           "gitCommit": {
-            "shortHash": "134f763",
-            "hash": "134f7634a138ec50403a92fc48113f1648228971",
-            "subject": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure",
-            "body": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure\n",
+            "shortHash": "7af0524",
+            "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
+            "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
+            "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751816706000
+              "time": 1751865456000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751816706000
+              "time": 1751865456000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/134f7634a138ec50403a92fc48113f1648228971",
-            "commitHash": "134f7634a138ec50403a92fc48113f1648228971",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16100672548"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
+            "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
           },
           "gitCommit": {
-            "shortHash": "134f763",
-            "hash": "134f7634a138ec50403a92fc48113f1648228971",
-            "subject": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure",
-            "body": "Updated actions.yml file & test files to adapt for smoke test/regression test via folder structure\n",
+            "shortHash": "7af0524",
+            "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
+            "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
+            "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751816706000
+              "time": 1751865456000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751816706000
+              "time": 1751865456000
             },
             "branch": "main"
           },
@@ -208,7 +208,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 745,
+                  "duration": 752,
                   "errors": [],
                   "stdout": [
                     {
@@ -217,7 +217,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-06T15:46:44.360Z",
+                  "startTime": "2025-07-07T05:19:11.938Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -235,7 +235,7 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 2419,
+                  "duration": 2385,
                   "errors": [],
                   "stdout": [
                     {
@@ -244,7 +244,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-06T15:46:44.368Z",
+                  "startTime": "2025-07-07T05:19:11.933Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -262,7 +262,7 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2327,
+                  "duration": 2255,
                   "errors": [],
                   "stdout": [
                     {
@@ -271,7 +271,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-06T15:46:46.739Z",
+                  "startTime": "2025-07-07T05:19:14.356Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -302,7 +302,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 737,
+                  "duration": 742,
                   "errors": [],
                   "stdout": [
                     {
@@ -311,7 +311,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-06T15:46:45.183Z",
+                  "startTime": "2025-07-07T05:19:12.767Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -329,7 +329,7 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1522,
+                  "duration": 1413,
                   "errors": [],
                   "stdout": [
                     {
@@ -338,7 +338,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-06T15:46:47.311Z",
+                  "startTime": "2025-07-07T05:19:14.826Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -356,7 +356,7 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1760,
+                  "duration": 1738,
                   "errors": [],
                   "stdout": [
                     {
@@ -365,7 +365,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-06T15:46:49.686Z",
+                  "startTime": "2025-07-07T05:19:17.177Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -383,8 +383,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-06T15:46:42.996Z",
-    "duration": 8877.878,
+    "startTime": "2025-07-07T05:19:10.595Z",
+    "duration": 8815.168,
     "expected": 6,
     "skipped": 0,
     "unexpected": 0,
