@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
-        "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
+        "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
       },
       "gitCommit": {
-        "shortHash": "7af0524",
-        "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-        "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
-        "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
+        "shortHash": "68b47f8",
+        "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
+        "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
+        "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751865456000
+          "time": 1751867346000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751865456000
+          "time": 1751867346000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
+            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
           },
           "gitCommit": {
-            "shortHash": "7af0524",
-            "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
-            "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
+            "shortHash": "68b47f8",
+            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
+            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
+            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
           },
           "gitCommit": {
-            "shortHash": "7af0524",
-            "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
-            "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
+            "shortHash": "68b47f8",
+            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
+            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
+            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
           },
           "gitCommit": {
-            "shortHash": "7af0524",
-            "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
-            "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
+            "shortHash": "68b47f8",
+            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
+            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "branch": "main"
           },
@@ -208,7 +208,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 752,
+                  "duration": 760,
                   "errors": [],
                   "stdout": [
                     {
@@ -217,7 +217,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:19:11.938Z",
+                  "startTime": "2025-07-07T05:50:41.350Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -235,7 +235,7 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 2385,
+                  "duration": 2417,
                   "errors": [],
                   "stdout": [
                     {
@@ -244,7 +244,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:19:11.933Z",
+                  "startTime": "2025-07-07T05:50:41.359Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -262,7 +262,7 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2255,
+                  "duration": 2308,
                   "errors": [],
                   "stdout": [
                     {
@@ -271,7 +271,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:19:14.356Z",
+                  "startTime": "2025-07-07T05:50:43.801Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -302,7 +302,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 742,
+                  "duration": 735,
                   "errors": [],
                   "stdout": [
                     {
@@ -311,7 +311,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:19:12.767Z",
+                  "startTime": "2025-07-07T05:50:42.186Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -329,7 +329,7 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1413,
+                  "duration": 1535,
                   "errors": [],
                   "stdout": [
                     {
@@ -338,7 +338,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:19:14.826Z",
+                  "startTime": "2025-07-07T05:50:44.326Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -356,7 +356,7 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1738,
+                  "duration": 1761,
                   "errors": [],
                   "stdout": [
                     {
@@ -365,7 +365,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:19:17.177Z",
+                  "startTime": "2025-07-07T05:50:46.685Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -383,8 +383,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-07T05:19:10.595Z",
-    "duration": 8815.168,
+    "startTime": "2025-07-07T05:50:40.041Z",
+    "duration": 8902.635,
     "expected": 6,
     "skipped": 0,
     "unexpected": 0,

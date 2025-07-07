@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
-        "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
+        "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
       },
       "gitCommit": {
-        "shortHash": "7af0524",
-        "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-        "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
-        "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
+        "shortHash": "68b47f8",
+        "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
+        "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
+        "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751865456000
+          "time": 1751867346000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751865456000
+          "time": 1751867346000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
+            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
           },
           "gitCommit": {
-            "shortHash": "7af0524",
-            "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
-            "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
+            "shortHash": "68b47f8",
+            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
+            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
+            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
           },
           "gitCommit": {
-            "shortHash": "7af0524",
-            "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
-            "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
+            "shortHash": "68b47f8",
+            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
+            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "commitHash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108246097"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
+            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
           },
           "gitCommit": {
-            "shortHash": "7af0524",
-            "hash": "7af0524984a93aaaf33d93a1717c407a34db27e1",
-            "subject": "Adding Google Chat Space integration for Test execution updates via CI/CD",
-            "body": "Adding Google Chat Space integration for Test execution updates via CI/CD\n",
+            "shortHash": "68b47f8",
+            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
+            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
+            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751865456000
+              "time": 1751867346000
             },
             "branch": "main"
           },
@@ -215,12 +215,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 597,
+                      "duration": 601,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:15.500Z",
+                      "startTime": "2025-07-07T05:49:45.567Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -238,12 +238,12 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2188,
+                      "duration": 2252,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:15.517Z",
+                      "startTime": "2025-07-07T05:49:45.569Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -258,15 +258,15 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 5,
+                      "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 2729,
+                      "duration": 1628,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:21.122Z",
+                      "startTime": "2025-07-07T05:49:51.129Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -306,7 +306,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:16.170Z",
+                      "startTime": "2025-07-07T05:49:46.245Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -337,7 +337,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:18.221Z",
+                      "startTime": "2025-07-07T05:49:48.375Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -360,7 +360,7 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 5,
+                      "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "skipped",
                       "duration": 0,
@@ -368,7 +368,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:24.303Z",
+                      "startTime": "2025-07-07T05:49:53.193Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -403,7 +403,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 732,
+                      "duration": 746,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -427,7 +427,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:16.171Z",
+                      "startTime": "2025-07-07T05:49:46.245Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -461,7 +461,7 @@
                       "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 885,
+                      "duration": 914,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -485,7 +485,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-07-07T05:18:17.812Z",
+                      "startTime": "2025-07-07T05:49:47.866Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -529,7 +529,7 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 1352,
+                      "duration": 1331,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -553,7 +553,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:18.221Z",
+                      "startTime": "2025-07-07T05:49:48.375Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -584,10 +584,10 @@
                       }
                     },
                     {
-                      "workerIndex": 4,
+                      "workerIndex": 5,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 2762,
+                      "duration": 3017,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -611,7 +611,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-07-07T05:18:21.017Z",
+                      "startTime": "2025-07-07T05:49:51.150Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -652,10 +652,10 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 5,
+                      "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 2977,
+                      "duration": 2787,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -679,7 +679,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:24.303Z",
+                      "startTime": "2025-07-07T05:49:53.194Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -713,7 +713,7 @@
                       "workerIndex": 7,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 2069,
+                      "duration": 2879,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -737,7 +737,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-07-07T05:18:28.364Z",
+                      "startTime": "2025-07-07T05:49:56.842Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -801,7 +801,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:19.733Z",
+                      "startTime": "2025-07-07T05:49:49.810Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -832,7 +832,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:25.602Z",
+                      "startTime": "2025-07-07T05:49:56.140Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -863,7 +863,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:31.311Z",
+                      "startTime": "2025-07-07T05:50:00.541Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -896,12 +896,12 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 672,
+                      "duration": 604,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:19.734Z",
+                      "startTime": "2025-07-07T05:49:49.810Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -919,12 +919,12 @@
                       "workerIndex": 6,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2291,
+                      "duration": 2567,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:25.602Z",
+                      "startTime": "2025-07-07T05:49:56.141Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -942,12 +942,12 @@
                       "workerIndex": 8,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 2016,
+                      "duration": 1901,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:18:31.312Z",
+                      "startTime": "2025-07-07T05:50:00.542Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -967,8 +967,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-07T05:18:14.203Z",
-    "duration": 19340.057,
+    "startTime": "2025-07-07T05:49:44.358Z",
+    "duration": 18348.619,
     "expected": 6,
     "skipped": 6,
     "unexpected": 3,
