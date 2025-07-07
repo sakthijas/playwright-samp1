@@ -54,10 +54,9 @@ jobs:
             STATUS="✅ Playwright - Smoke tests passed"
           fi
 
-          MESSAGE="$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`."
-
-          curl -X POST -H 'Content-Type: application/json' \
-            -d "{\"text\": \"$MESSAGE\"}" \
+          curl -X POST -H 'Content-type: application/json' \
+            -A "Mozilla/5.0" \
+            --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\"}" \
             ${{ secrets.GCHAT_WEBHOOK_URL }}
 
   regression:
@@ -108,10 +107,9 @@ jobs:
             STATUS="✅ Playwright - Regression tests passed"
           fi
 
-          MESSAGE="$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`."
-
-          curl -X POST -H 'Content-Type: application/json' \
-            -d "{\"text\": \"$MESSAGE\"}" \
+          curl -X POST -H 'Content-type: application/json' \
+            -A "Mozilla/5.0" \
+            --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\"}" \
             ${{ secrets.GCHAT_WEBHOOK_URL }}
 
   deploy-report:
