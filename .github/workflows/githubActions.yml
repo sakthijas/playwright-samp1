@@ -12,6 +12,7 @@ jobs:
     env:
       npm_config_cache: /tmp/.npm-cache
       PW_REPORT_FOLDER: playwright-report-smoke
+      job_type: Smoke
     container:
       image: mcr.microsoft.com/playwright:v1.53.0-jammy
       options: --user 1001
@@ -43,8 +44,24 @@ jobs:
 
           COMMIT_MSG=$(echo "${{ github.event.head_commit.message }}" | head -n 1)
           curl -X POST -H 'Content-type: application/json' \
-            --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\\n*Commit*: $COMMIT_MSG\"}" \
+            --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\\n📝 *Commit*: $COMMIT_MSG\"}" \
             ${{ secrets.SLACK_WEBHOOK_URL }}
+      
+      - name: Send Gmail Notification
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: Playwright - ${{ env.job_type }} Tests Result
+          body: |
+            ✅ Smoke Tests Passed on ${{ github.repository }} (branch: ${{ github.ref_name }})
+            Commit: ${{ github.event.head_commit.message }}
+
+            View report in GitHub artifacts.
+          to: ${{ secrets.EMAIL_USERNAME }}
+          from: ${{ secrets.EMAIL_USERNAME }}
 
       - name: Send GChat notification
         run: |
@@ -66,6 +83,7 @@ jobs:
     env:
       npm_config_cache: /tmp/.npm-cache
       PW_REPORT_FOLDER: playwright-report-regression
+      job_type: Regression
     container:
       image: mcr.microsoft.com/playwright:v1.53.0-jammy
       options: --user 1001
@@ -99,6 +117,22 @@ jobs:
           curl -X POST -H 'Content-type: application/json' \
             --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\\n📝 *Commit*: $COMMIT_MSG\"}" \
             ${{ secrets.SLACK_WEBHOOK_URL }}
+
+      - name: Send Gmail Notification
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: Playwright - ${{ env.job_type }} Tests Result
+          body: |
+            ✅ Regression Tests Passed on ${{ github.repository }} (branch: ${{ github.ref_name }})
+            Commit: ${{ github.event.head_commit.message }}
+
+            View report in GitHub artifacts.
+          to: ${{ secrets.EMAIL_USERNAME }}
+          from: ${{ secrets.EMAIL_USERNAME }}
 
       - name: Send GChat notification
         run: |
