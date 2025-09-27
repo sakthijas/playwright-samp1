@@ -41,8 +41,9 @@ jobs:
             STATUS="✅ Playwright - Smoke tests passed"
           fi
 
+          COMMIT_MSG=$(echo "${{ github.event.head_commit.message }}" | head -n 1)
           curl -X POST -H 'Content-type: application/json' \
-            --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\"}" \
+            --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\\n*Commit*: $COMMIT_MSG\"}" \
             ${{ secrets.SLACK_WEBHOOK_URL }}
 
       - name: Send GChat notification
@@ -94,8 +95,9 @@ jobs:
             STATUS="✅ Playwright - Regression tests passed"
           fi
 
+          COMMIT_MSG=$(echo "${{ github.event.head_commit.message }}" | head -n 1)
           curl -X POST -H 'Content-type: application/json' \
-            --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\"}" \
+            --data "{\"text\":\"$STATUS on *${{ github.repository }}* (\`${{ github.ref_name }}\`) by \`${{ github.actor }}\`.\\n📝 *Commit*: $COMMIT_MSG\"}" \
             ${{ secrets.SLACK_WEBHOOK_URL }}
 
       - name: Send GChat notification
