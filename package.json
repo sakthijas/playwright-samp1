@@ -16,6 +16,8 @@
   "license": "ISC",
   "description": "Am using this project for Learning & practise purpose",
   "devDependencies": {
-    "@playwright/test": "^1.53.0"
+    "@playwright/test": "^1.53.0",
+    "@types/papaparse": "^5.3.16",
+    "papaparse": "^5.5.3"
   }
 }
