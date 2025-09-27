@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
-        "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
+        "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
       },
       "gitCommit": {
-        "shortHash": "68b47f8",
-        "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
-        "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
-        "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
+        "shortHash": "8653063",
+        "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
+        "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
+        "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751867346000
+          "time": 1758952846000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751867346000
+          "time": 1758952846000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
-            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
+            "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
           },
           "gitCommit": {
-            "shortHash": "68b47f8",
-            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
-            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
+            "shortHash": "8653063",
+            "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
+            "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
-            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
+            "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
           },
           "gitCommit": {
-            "shortHash": "68b47f8",
-            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
-            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
+            "shortHash": "8653063",
+            "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
+            "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
-            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
+            "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
           },
           "gitCommit": {
-            "shortHash": "68b47f8",
-            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
-            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
+            "shortHash": "8653063",
+            "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
+            "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "branch": "main"
           },
@@ -208,7 +208,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 760,
+                  "duration": 743,
                   "errors": [],
                   "stdout": [
                     {
@@ -217,7 +217,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:50:41.350Z",
+                  "startTime": "2025-09-27T06:02:43.839Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -235,7 +235,7 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 2417,
+                  "duration": 2625,
                   "errors": [],
                   "stdout": [
                     {
@@ -244,7 +244,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:50:41.359Z",
+                  "startTime": "2025-09-27T06:02:43.841Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -262,7 +262,7 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2308,
+                  "duration": 2574,
                   "errors": [],
                   "stdout": [
                     {
@@ -271,7 +271,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:50:43.801Z",
+                  "startTime": "2025-09-27T06:02:47.725Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -281,7 +281,7 @@
           ],
           "id": "bf591cb6fde4eff4bf4a-5f95da8c1a1d215b871b",
           "file": "tests/regression/login.spec.ts",
-          "line": 9,
+          "line": 12,
           "column": 7
         },
         {
@@ -302,7 +302,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 735,
+                  "duration": 736,
                   "errors": [],
                   "stdout": [
                     {
@@ -311,7 +311,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:50:42.186Z",
+                  "startTime": "2025-09-27T06:02:44.668Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -329,7 +329,7 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1535,
+                  "duration": 1308,
                   "errors": [],
                   "stdout": [
                     {
@@ -338,7 +338,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:50:44.326Z",
+                  "startTime": "2025-09-27T06:02:47.179Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -356,7 +356,7 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1761,
+                  "duration": 2040,
                   "errors": [],
                   "stdout": [
                     {
@@ -365,7 +365,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-07T05:50:46.685Z",
+                  "startTime": "2025-09-27T06:02:51.204Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -375,17 +375,181 @@
           ],
           "id": "bf591cb6fde4eff4bf4a-6261cb104d95258bba07",
           "file": "tests/regression/login.spec.ts",
-          "line": 9,
+          "line": 12,
           "column": 7
+        },
+        {
+          "title": "@regression should handle login for user: standard_user",
+          "ok": true,
+          "tags": [
+            "regression"
+          ],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "Chromium",
+              "projectName": "Chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 734,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-09-27T06:02:45.409Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "Firefox",
+              "projectName": "Firefox",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 1526,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-09-27T06:02:48.492Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "WebKit",
+              "projectName": "WebKit",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1708,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-09-27T06:02:53.266Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bf591cb6fde4eff4bf4a-8a087ebd96ebf63363b6",
+          "file": "tests/regression/login.spec.ts",
+          "line": 29,
+          "column": 9
+        },
+        {
+          "title": "@regression should handle login for user: locked_out_user",
+          "ok": true,
+          "tags": [
+            "regression"
+          ],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "Chromium",
+              "projectName": "Chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 754,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-09-27T06:02:46.147Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "Firefox",
+              "projectName": "Firefox",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 1614,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-09-27T06:02:50.023Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "WebKit",
+              "projectName": "WebKit",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1528,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-09-27T06:02:54.978Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bf591cb6fde4eff4bf4a-f60b0185c8f8b271589e",
+          "file": "tests/regression/login.spec.ts",
+          "line": 29,
+          "column": 9
         }
       ]
     }
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-07T05:50:40.041Z",
-    "duration": 8902.635,
-    "expected": 6,
+    "startTime": "2025-09-27T06:02:42.522Z",
+    "duration": 14096.611,
+    "expected": 12,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0

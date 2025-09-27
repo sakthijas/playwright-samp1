@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
-        "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
+        "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
       },
       "gitCommit": {
-        "shortHash": "68b47f8",
-        "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
-        "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
-        "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
+        "shortHash": "8653063",
+        "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
+        "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
+        "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751867346000
+          "time": 1758952846000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1751867346000
+          "time": 1758952846000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
-            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
+            "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
           },
           "gitCommit": {
-            "shortHash": "68b47f8",
-            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
-            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
+            "shortHash": "8653063",
+            "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
+            "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
-            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
+            "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
           },
           "gitCommit": {
-            "shortHash": "68b47f8",
-            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
-            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
+            "shortHash": "8653063",
+            "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
+            "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/68b47f8fe10f689520a884871b056e6340da97e8",
-            "commitHash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/16108682316"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
+            "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
           },
           "gitCommit": {
-            "shortHash": "68b47f8",
-            "hash": "68b47f8fe10f689520a884871b056e6340da97e8",
-            "subject": "Fix1: Google Chat Space integration - Updating CURL details with browser info",
-            "body": "Fix1: Google Chat Space integration - Updating CURL details with browser info\n",
+            "shortHash": "8653063",
+            "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
+            "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
+            "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1751867346000
+              "time": 1758952846000
             },
             "branch": "main"
           },
@@ -215,12 +215,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 601,
+                      "duration": 632,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:45.567Z",
+                      "startTime": "2025-09-27T06:01:49.694Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -238,12 +238,12 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2252,
+                      "duration": 2377,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:45.569Z",
+                      "startTime": "2025-09-27T06:01:49.693Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -261,12 +261,12 @@
                       "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 1628,
+                      "duration": 2428,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:51.129Z",
+                      "startTime": "2025-09-27T06:01:55.486Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -306,7 +306,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:46.245Z",
+                      "startTime": "2025-09-27T06:01:50.423Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -337,7 +337,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:48.375Z",
+                      "startTime": "2025-09-27T06:01:52.750Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -368,7 +368,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:53.193Z",
+                      "startTime": "2025-09-27T06:01:58.702Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -403,7 +403,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 746,
+                      "duration": 753,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -427,7 +427,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:46.245Z",
+                      "startTime": "2025-09-27T06:01:50.423Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -461,7 +461,7 @@
                       "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 914,
+                      "duration": 936,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -485,7 +485,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-07-07T05:49:47.866Z",
+                      "startTime": "2025-09-27T06:01:52.105Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -529,7 +529,7 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 1331,
+                      "duration": 1245,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -553,7 +553,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:48.375Z",
+                      "startTime": "2025-09-27T06:01:52.751Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -587,7 +587,7 @@
                       "workerIndex": 5,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 3017,
+                      "duration": 2660,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -611,7 +611,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-07-07T05:49:51.150Z",
+                      "startTime": "2025-09-27T06:01:55.507Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -655,7 +655,7 @@
                       "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 2787,
+                      "duration": 2461,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -679,7 +679,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:53.194Z",
+                      "startTime": "2025-09-27T06:01:58.702Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -713,7 +713,7 @@
                       "workerIndex": 7,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 2879,
+                      "duration": 2667,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -737,7 +737,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-07-07T05:49:56.842Z",
+                      "startTime": "2025-09-27T06:02:02.109Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -801,7 +801,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:49.810Z",
+                      "startTime": "2025-09-27T06:01:54.069Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -832,7 +832,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:56.140Z",
+                      "startTime": "2025-09-27T06:02:00.442Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -863,7 +863,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:50:00.541Z",
+                      "startTime": "2025-09-27T06:02:05.604Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -896,12 +896,12 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 604,
+                      "duration": 644,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:49.810Z",
+                      "startTime": "2025-09-27T06:01:54.070Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -919,12 +919,12 @@
                       "workerIndex": 6,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2567,
+                      "duration": 2480,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:49:56.141Z",
+                      "startTime": "2025-09-27T06:02:00.443Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -942,12 +942,12 @@
                       "workerIndex": 8,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 1901,
+                      "duration": 1845,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-07T05:50:00.542Z",
+                      "startTime": "2025-09-27T06:02:05.605Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -967,8 +967,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-07T05:49:44.358Z",
-    "duration": 18348.619,
+    "startTime": "2025-09-27T06:01:48.457Z",
+    "duration": 19283.869000000002,
     "expected": 6,
     "skipped": 6,
     "unexpected": 3,
