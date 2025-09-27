@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
-        "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fd0e931f5f68354aa89bb5af916ad4534ef56513",
+        "commitHash": "fd0e931f5f68354aa89bb5af916ad4534ef56513",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18056204563"
       },
       "gitCommit": {
-        "shortHash": "8653063",
-        "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
-        "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
-        "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
+        "shortHash": "fd0e931",
+        "hash": "fd0e931f5f68354aa89bb5af916ad4534ef56513",
+        "subject": "Formatting Slack msg: Adding commit msg for better understanding pupose",
+        "body": "Formatting Slack msg: Adding commit msg for better understanding pupose\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1758952846000
+          "time": 1758954123000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1758952846000
+          "time": 1758954123000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
-            "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fd0e931f5f68354aa89bb5af916ad4534ef56513",
+            "commitHash": "fd0e931f5f68354aa89bb5af916ad4534ef56513",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18056204563"
           },
           "gitCommit": {
-            "shortHash": "8653063",
-            "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
-            "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
-            "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
+            "shortHash": "fd0e931",
+            "hash": "fd0e931f5f68354aa89bb5af916ad4534ef56513",
+            "subject": "Formatting Slack msg: Adding commit msg for better understanding pupose",
+            "body": "Formatting Slack msg: Adding commit msg for better understanding pupose\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758952846000
+              "time": 1758954123000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758952846000
+              "time": 1758954123000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
-            "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fd0e931f5f68354aa89bb5af916ad4534ef56513",
+            "commitHash": "fd0e931f5f68354aa89bb5af916ad4534ef56513",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18056204563"
           },
           "gitCommit": {
-            "shortHash": "8653063",
-            "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
-            "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
-            "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
+            "shortHash": "fd0e931",
+            "hash": "fd0e931f5f68354aa89bb5af916ad4534ef56513",
+            "subject": "Formatting Slack msg: Adding commit msg for better understanding pupose",
+            "body": "Formatting Slack msg: Adding commit msg for better understanding pupose\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758952846000
+              "time": 1758954123000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758952846000
+              "time": 1758954123000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/86530630e0a1193048333fdc14cf22028f4716d0",
-            "commitHash": "86530630e0a1193048333fdc14cf22028f4716d0",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18055935010"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/fd0e931f5f68354aa89bb5af916ad4534ef56513",
+            "commitHash": "fd0e931f5f68354aa89bb5af916ad4534ef56513",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18056204563"
           },
           "gitCommit": {
-            "shortHash": "8653063",
-            "hash": "86530630e0a1193048333fdc14cf22028f4716d0",
-            "subject": "Added fixture folder & testdata. Code change was done using Gemini CLI",
-            "body": "Added fixture folder & testdata. Code change was done using Gemini CLI\n",
+            "shortHash": "fd0e931",
+            "hash": "fd0e931f5f68354aa89bb5af916ad4534ef56513",
+            "subject": "Formatting Slack msg: Adding commit msg for better understanding pupose",
+            "body": "Formatting Slack msg: Adding commit msg for better understanding pupose\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758952846000
+              "time": 1758954123000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758952846000
+              "time": 1758954123000
             },
             "branch": "main"
           },
@@ -215,12 +215,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 632,
+                      "duration": 647,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:49.694Z",
+                      "startTime": "2025-09-27T06:22:43.997Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -238,12 +238,12 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2377,
+                      "duration": 2269,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:49.693Z",
+                      "startTime": "2025-09-27T06:22:44.004Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -258,15 +258,15 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 4,
+                      "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 2428,
+                      "duration": 2494,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:55.486Z",
+                      "startTime": "2025-09-27T06:22:49.761Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -306,7 +306,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:50.423Z",
+                      "startTime": "2025-09-27T06:22:44.727Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -337,7 +337,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:52.750Z",
+                      "startTime": "2025-09-27T06:22:46.953Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -360,7 +360,7 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 4,
+                      "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "skipped",
                       "duration": 0,
@@ -368,7 +368,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:58.702Z",
+                      "startTime": "2025-09-27T06:22:53.039Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -403,7 +403,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 753,
+                      "duration": 781,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -427,7 +427,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:50.423Z",
+                      "startTime": "2025-09-27T06:22:44.727Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -461,7 +461,7 @@
                       "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 936,
+                      "duration": 914,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -485,7 +485,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-09-27T06:01:52.105Z",
+                      "startTime": "2025-09-27T06:22:46.443Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -529,7 +529,7 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 1245,
+                      "duration": 1294,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -553,7 +553,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:52.751Z",
+                      "startTime": "2025-09-27T06:22:46.954Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -584,10 +584,10 @@
                       }
                     },
                     {
-                      "workerIndex": 5,
+                      "workerIndex": 4,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 2660,
+                      "duration": 2724,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -611,7 +611,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-09-27T06:01:55.507Z",
+                      "startTime": "2025-09-27T06:22:49.721Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -652,10 +652,10 @@
                   "projectName": "WebKit",
                   "results": [
                     {
-                      "workerIndex": 4,
+                      "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 2461,
+                      "duration": 2698,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -679,7 +679,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:58.702Z",
+                      "startTime": "2025-09-27T06:22:53.039Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -713,7 +713,7 @@
                       "workerIndex": 7,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 2667,
+                      "duration": 2509,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -737,7 +737,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2025-09-27T06:02:02.109Z",
+                      "startTime": "2025-09-27T06:22:56.761Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -801,7 +801,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:54.069Z",
+                      "startTime": "2025-09-27T06:22:48.383Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -832,7 +832,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:02:00.442Z",
+                      "startTime": "2025-09-27T06:22:54.719Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -863,7 +863,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:02:05.604Z",
+                      "startTime": "2025-09-27T06:23:00.090Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -896,12 +896,12 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 644,
+                      "duration": 657,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:01:54.070Z",
+                      "startTime": "2025-09-27T06:22:48.384Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -919,12 +919,12 @@
                       "workerIndex": 6,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2480,
+                      "duration": 2420,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:02:00.443Z",
+                      "startTime": "2025-09-27T06:22:54.724Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -942,12 +942,12 @@
                       "workerIndex": 8,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 1845,
+                      "duration": 2094,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-27T06:02:05.605Z",
+                      "startTime": "2025-09-27T06:23:00.091Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -967,8 +967,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-09-27T06:01:48.457Z",
-    "duration": 19283.869000000002,
+    "startTime": "2025-09-27T06:22:42.472Z",
+    "duration": 19933.365,
     "expected": 6,
     "skipped": 6,
     "unexpected": 3,
