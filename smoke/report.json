@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-        "commitHash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29436220564"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+        "commitHash": "d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29437291648"
       },
       "gitCommit": {
-        "shortHash": "08c76e5",
-        "hash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-        "subject": "added jenkins.local file for local jenkins execution purpose",
-        "body": "added jenkins.local file for local jenkins execution purpose\n",
+        "shortHash": "d4f11e6",
+        "hash": "d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+        "subject": "updated jenkins.local file for installing",
+        "body": "updated jenkins.local file for installing\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1784136095000
+          "time": 1784137065000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1784136095000
+          "time": 1784137065000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-            "commitHash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29436220564"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+            "commitHash": "d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29437291648"
           },
           "gitCommit": {
-            "shortHash": "08c76e5",
-            "hash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-            "subject": "added jenkins.local file for local jenkins execution purpose",
-            "body": "added jenkins.local file for local jenkins execution purpose\n",
+            "shortHash": "d4f11e6",
+            "hash": "d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+            "subject": "updated jenkins.local file for installing",
+            "body": "updated jenkins.local file for installing\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1784136095000
+              "time": 1784137065000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1784136095000
+              "time": 1784137065000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-            "commitHash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29436220564"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+            "commitHash": "d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29437291648"
           },
           "gitCommit": {
-            "shortHash": "08c76e5",
-            "hash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-            "subject": "added jenkins.local file for local jenkins execution purpose",
-            "body": "added jenkins.local file for local jenkins execution purpose\n",
+            "shortHash": "d4f11e6",
+            "hash": "d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+            "subject": "updated jenkins.local file for installing",
+            "body": "updated jenkins.local file for installing\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1784136095000
+              "time": 1784137065000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1784136095000
+              "time": 1784137065000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-            "commitHash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29436220564"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+            "commitHash": "d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29437291648"
           },
           "gitCommit": {
-            "shortHash": "08c76e5",
-            "hash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
-            "subject": "added jenkins.local file for local jenkins execution purpose",
-            "body": "added jenkins.local file for local jenkins execution purpose\n",
+            "shortHash": "d4f11e6",
+            "hash": "d4f11e6111903a7fb1e2fe5bb622ef0165aac91c",
+            "subject": "updated jenkins.local file for installing",
+            "body": "updated jenkins.local file for installing\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1784136095000
+              "time": 1784137065000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1784136095000
+              "time": 1784137065000
             },
             "branch": "main"
           },
@@ -215,12 +215,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 840,
+                      "duration": 878,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:09.899Z",
+                      "startTime": "2026-07-15T17:38:39.291Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -238,12 +238,12 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2358,
+                      "duration": 2569,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:09.925Z",
+                      "startTime": "2026-07-15T17:38:39.301Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -261,12 +261,12 @@
                       "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 1958,
+                      "duration": 2567,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:16.142Z",
+                      "startTime": "2026-07-15T17:38:46.155Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -306,7 +306,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:10.838Z",
+                      "startTime": "2026-07-15T17:38:40.316Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -337,7 +337,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:13.081Z",
+                      "startTime": "2026-07-15T17:38:42.765Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -368,7 +368,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:19.053Z",
+                      "startTime": "2026-07-15T17:38:49.704Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -403,7 +403,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 770,
+                      "duration": 865,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -427,7 +427,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:10.838Z",
+                      "startTime": "2026-07-15T17:38:40.316Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -461,7 +461,7 @@
                       "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 965,
+                      "duration": 1078,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -485,7 +485,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2026-07-15T17:23:12.582Z",
+                      "startTime": "2026-07-15T17:38:42.343Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -529,7 +529,7 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 1298,
+                      "duration": 1508,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -553,7 +553,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:13.081Z",
+                      "startTime": "2026-07-15T17:38:42.766Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -587,7 +587,7 @@
                       "workerIndex": 4,
                       "parallelIndex": 1,
                       "status": "failed",
-                      "duration": 3221,
+                      "duration": 3119,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -611,7 +611,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2026-07-15T17:23:15.924Z",
+                      "startTime": "2026-07-15T17:38:45.978Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -655,7 +655,7 @@
                       "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 2852,
+                      "duration": 3163,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -679,7 +679,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:19.055Z",
+                      "startTime": "2026-07-15T17:38:49.706Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -713,7 +713,7 @@
                       "workerIndex": 7,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 3078,
+                      "duration": 2805,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m2\u001b[39m\nReceived: \u001b[31m1\u001b[39m\n    at /__w/playwright-samp1/playwright-samp1/tests/smoke/inventory.spec.ts:26:23",
@@ -737,7 +737,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 1,
-                      "startTime": "2026-07-15T17:23:22.777Z",
+                      "startTime": "2026-07-15T17:38:53.914Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -801,7 +801,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:14.585Z",
+                      "startTime": "2026-07-15T17:38:44.490Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -832,7 +832,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:21.394Z",
+                      "startTime": "2026-07-15T17:38:51.814Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -863,7 +863,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:26.725Z",
+                      "startTime": "2026-07-15T17:38:57.809Z",
                       "annotations": [
                         {
                           "type": "skip"
@@ -896,12 +896,12 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 748,
+                      "duration": 825,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:14.587Z",
+                      "startTime": "2026-07-15T17:38:44.491Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -919,12 +919,12 @@
                       "workerIndex": 6,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 2740,
+                      "duration": 2853,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:21.395Z",
+                      "startTime": "2026-07-15T17:38:51.817Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -942,12 +942,12 @@
                       "workerIndex": 8,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 2005,
+                      "duration": 2033,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-15T17:23:26.726Z",
+                      "startTime": "2026-07-15T17:38:57.810Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -967,8 +967,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-07-15T17:23:08.572Z",
-    "duration": 20474.316000000003,
+    "startTime": "2026-07-15T17:38:37.902Z",
+    "duration": 22200.240999999998,
     "expected": 6,
     "skipped": 6,
     "unexpected": 3,
