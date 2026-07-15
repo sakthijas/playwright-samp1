@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/1eeb291176200fcbd504afe0d0875edb0256266b",
-        "commitHash": "1eeb291176200fcbd504afe0d0875edb0256266b",
-        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18056651268"
+        "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+        "commitHash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+        "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29436220564"
       },
       "gitCommit": {
-        "shortHash": "1eeb291",
-        "hash": "1eeb291176200fcbd504afe0d0875edb0256266b",
-        "subject": "Gmail Notification Integration",
-        "body": "Gmail Notification Integration\n",
+        "shortHash": "08c76e5",
+        "hash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+        "subject": "added jenkins.local file for local jenkins execution purpose",
+        "body": "added jenkins.local file for local jenkins execution purpose\n",
         "author": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1758956794000
+          "time": 1784136095000
         },
         "committer": {
           "name": "sakthijas",
           "email": "sakthijas173@gmail.com",
-          "time": 1758956794000
+          "time": 1784136095000
         },
         "branch": "main"
       },
@@ -67,24 +67,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/1eeb291176200fcbd504afe0d0875edb0256266b",
-            "commitHash": "1eeb291176200fcbd504afe0d0875edb0256266b",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18056651268"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+            "commitHash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29436220564"
           },
           "gitCommit": {
-            "shortHash": "1eeb291",
-            "hash": "1eeb291176200fcbd504afe0d0875edb0256266b",
-            "subject": "Gmail Notification Integration",
-            "body": "Gmail Notification Integration\n",
+            "shortHash": "08c76e5",
+            "hash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+            "subject": "added jenkins.local file for local jenkins execution purpose",
+            "body": "added jenkins.local file for local jenkins execution purpose\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758956794000
+              "time": 1784136095000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758956794000
+              "time": 1784136095000
             },
             "branch": "main"
           },
@@ -105,24 +105,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/1eeb291176200fcbd504afe0d0875edb0256266b",
-            "commitHash": "1eeb291176200fcbd504afe0d0875edb0256266b",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18056651268"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+            "commitHash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29436220564"
           },
           "gitCommit": {
-            "shortHash": "1eeb291",
-            "hash": "1eeb291176200fcbd504afe0d0875edb0256266b",
-            "subject": "Gmail Notification Integration",
-            "body": "Gmail Notification Integration\n",
+            "shortHash": "08c76e5",
+            "hash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+            "subject": "added jenkins.local file for local jenkins execution purpose",
+            "body": "added jenkins.local file for local jenkins execution purpose\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758956794000
+              "time": 1784136095000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758956794000
+              "time": 1784136095000
             },
             "branch": "main"
           },
@@ -143,24 +143,24 @@
         "retries": 1,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/1eeb291176200fcbd504afe0d0875edb0256266b",
-            "commitHash": "1eeb291176200fcbd504afe0d0875edb0256266b",
-            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/18056651268"
+            "commitHref": "https://github.com/sakthijas/playwright-samp1/commit/08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+            "commitHash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+            "buildHref": "https://github.com/sakthijas/playwright-samp1/actions/runs/29436220564"
           },
           "gitCommit": {
-            "shortHash": "1eeb291",
-            "hash": "1eeb291176200fcbd504afe0d0875edb0256266b",
-            "subject": "Gmail Notification Integration",
-            "body": "Gmail Notification Integration\n",
+            "shortHash": "08c76e5",
+            "hash": "08c76e58ca7aaf96b2ebe269c9981d254f689b81",
+            "subject": "added jenkins.local file for local jenkins execution purpose",
+            "body": "added jenkins.local file for local jenkins execution purpose\n",
             "author": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758956794000
+              "time": 1784136095000
             },
             "committer": {
               "name": "sakthijas",
               "email": "sakthijas173@gmail.com",
-              "time": 1758956794000
+              "time": 1784136095000
             },
             "branch": "main"
           },
@@ -208,7 +208,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 997,
+                  "duration": 923,
                   "errors": [],
                   "stdout": [
                     {
@@ -217,7 +217,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:44.103Z",
+                  "startTime": "2026-07-15T17:24:14.598Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -235,7 +235,7 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 2675,
+                  "duration": 2596,
                   "errors": [],
                   "stdout": [
                     {
@@ -244,7 +244,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:44.109Z",
+                  "startTime": "2026-07-15T17:24:14.593Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -262,7 +262,7 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2618,
+                  "duration": 2742,
                   "errors": [],
                   "stdout": [
                     {
@@ -271,7 +271,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:48.727Z",
+                  "startTime": "2026-07-15T17:24:18.812Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -302,7 +302,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 872,
+                  "duration": 733,
                   "errors": [],
                   "stdout": [
                     {
@@ -311,7 +311,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:45.190Z",
+                  "startTime": "2026-07-15T17:24:15.671Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -329,7 +329,7 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1363,
+                  "duration": 1367,
                   "errors": [],
                   "stdout": [
                     {
@@ -338,7 +338,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:47.399Z",
+                  "startTime": "2026-07-15T17:24:18.055Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -356,7 +356,7 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2040,
+                  "duration": 2058,
                   "errors": [],
                   "stdout": [
                     {
@@ -365,7 +365,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:52.245Z",
+                  "startTime": "2026-07-15T17:24:22.510Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -396,12 +396,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 923,
+                  "duration": 796,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:46.067Z",
+                  "startTime": "2026-07-15T17:24:16.421Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -419,12 +419,12 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 1618,
+                  "duration": 1514,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:48.770Z",
+                  "startTime": "2026-07-15T17:24:19.426Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -442,12 +442,12 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1843,
+                  "duration": 1860,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:54.290Z",
+                  "startTime": "2026-07-15T17:24:24.575Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -478,12 +478,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 877,
+                  "duration": 737,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:46.994Z",
+                  "startTime": "2026-07-15T17:24:17.228Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -501,12 +501,12 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 2013,
+                  "duration": 1581,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:50.394Z",
+                  "startTime": "2026-07-15T17:24:20.946Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -524,12 +524,12 @@
                   "workerIndex": 2,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1697,
+                  "duration": 1708,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-09-27T07:30:56.136Z",
+                  "startTime": "2026-07-15T17:24:26.441Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -547,8 +547,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-09-27T07:30:42.546Z",
-    "duration": 15401.32,
+    "startTime": "2026-07-15T17:24:13.233Z",
+    "duration": 15015.42,
     "expected": 12,
     "skipped": 0,
     "unexpected": 0,
